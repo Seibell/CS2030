@@ -1,0 +1,3 @@
+interface LockQuestion {
+    int mark();
+}

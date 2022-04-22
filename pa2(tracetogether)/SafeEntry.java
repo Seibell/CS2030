@@ -1,0 +1,2 @@
+class SafeEntry extends Token {
+}
